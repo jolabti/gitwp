@@ -51,7 +51,8 @@ define('DB_USER', 'u676725186_wpj');
 define('DB_PASSWORD', 'xcper12345');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+//define('DB_HOST', 'localhost');
+define('DB_HOST', 'http://jn-code.xyz');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
